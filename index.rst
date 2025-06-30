@@ -10,7 +10,7 @@ How to Install and Setup Microsoft 365 on Windows: Step-by-Step
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_32.png
    :width: 350px
    :align: center
    :height: 100px
